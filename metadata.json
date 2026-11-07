@@ -1,0 +1,6 @@
+{
+  "name": "FRAMEIQ by FAZLENZ",
+  "description": "Intelligent photography analysis studio powered by Gemini. Real visual critique, composition analysis, lighting evaluation, and creative direction for photographers and visual creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
